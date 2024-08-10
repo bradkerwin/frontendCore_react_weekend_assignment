@@ -1,10 +1,10 @@
 .BackgroundImage {
     background-image: "/public/bikini_bottom_background.jpg";
-    width: "500px";
-    border: "double 10px blue";
+    width: "300px";
 }
 
 .BackgroundText {
     font-family: cursive;
     color: black;
+    position: center;
 }
